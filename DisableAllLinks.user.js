@@ -2,7 +2,7 @@
 // @name         Disable All Links
 // @namespace    https://github.com/ghoulatsch
 // @version      240923
-// @description  Disables all links on a webpage and monitors for new links
+// @description  Disables all links on a webpage and monitors for new links. Written by Perplexity AI.
 // @author       Perplexity AI
 // @icon         https://www.iconsdb.com/icons/preview/black/shield-xxl.png
 // @match        *://*/*
